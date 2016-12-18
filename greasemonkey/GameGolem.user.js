@@ -6,8 +6,10 @@
 // @version		31.6.1198
 // @include		http://web3.castleagegame.com/castle_ws/*
 // @include		https://web3.castleagegame.com/castle_ws/*
-// @resource	golem http://game-golem.googlecode.com/svn/trunk/GameGolem.js
-// @resource	stylesheet http://game-golem.googlecode.com/svn/trunk/golem.css
+// @include		http://web4.castleagegame.com/castle_ws/*
+// @include		https://web4.castleagegame.com/castle_ws/*
+// @resource		golem https://github.com/kcyeu/game-golem/GameGolem.js
+// @resource		stylesheet https://github.com/kcyeu/game-golem/golem.css
 // ==/UserScript==
 // @disabled-include		http://apps.facebook.com/castle_age/*
 // @disabled-include		https://apps.facebook.com/castle_age/*
