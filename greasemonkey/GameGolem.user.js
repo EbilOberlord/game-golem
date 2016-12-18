@@ -8,8 +8,8 @@
 // @include		https://web3.castleagegame.com/castle_ws/*
 // @include		http://web4.castleagegame.com/castle_ws/*
 // @include		https://web4.castleagegame.com/castle_ws/*
-// @resource		golem https://github.com/kcyeu/game-golem/GameGolem.js
-// @resource		stylesheet https://github.com/kcyeu/game-golem/golem.css
+// @resource		golem https://github.com/ebiloberlord/game-golem/GameGolem.js
+// @resource		stylesheet https://github.com/ebiloberlord/game-golem/golem.css
 // ==/UserScript==
 // @disabled-include		http://apps.facebook.com/castle_age/*
 // @disabled-include		https://apps.facebook.com/castle_age/*
